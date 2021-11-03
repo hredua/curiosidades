@@ -130,7 +130,8 @@ div.contato p {
 
 .item {
     padding: 5px;
-    max-width: 10%;
+    max-width: 5%;
+}
 
 main p {
     margin: 15px 0px;
@@ -159,6 +160,10 @@ main h2 {
     background-image: linear-gradient(to right, var(--cor1), transparent);
     text-indent: 8px;
 
+}
+
+div.countainer a {
+    background-color: transparent;
 }
 
 main a {
