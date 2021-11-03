@@ -97,6 +97,41 @@ main {
     border-bottom-right-radius: 10px;
 }
 
+#perfil {
+    display: flex;
+    justify-content: space-around;
+    text-align: justify;
+    align-items: center;
+
+}
+
+div.contato {
+    max-width: 1000px;
+    min-width: 300px;
+    padding: 10px;
+    margin: auto;
+}
+
+div.contato img {
+    max-width: 18%;
+    padding: 10px;
+}
+
+div.contato p {
+    max-width: 600px;
+}
+
+.countainer {
+    display: flex;
+    flex-direction: row;
+    justify-content: flex-end;
+    align-items: center;
+}
+
+.item {
+    padding: 5px;
+    max-width: 10%;
+
 main p {
     margin: 15px 0px;
     text-align: justify;
